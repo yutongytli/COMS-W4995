@@ -29,7 +29,7 @@ Bottleneck==1.2.1
 certifi==2019.11.28
 cffi==1.12.3
 channels==2.2.0
-channels-redis==2.4.1
+channels-redis==2.3.2
 chardet==3.0.4
 Click==7.0
 cloudpickle==1.2.2
